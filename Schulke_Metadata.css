@@ -8,9 +8,20 @@
 
 body {background-color: Wheat;
 	   color: black;
-	   font-style: bold;
+	   font-family: "helvetica";
 	 }
 	 
+h1   {text-decoration: overline underline;
+		font-size: 35pt;
+		text-align: center;
+	}
+
+.right  {float: right; 
+		}
+#next_para { clear: right;
+		}   
+	
+	
 	 
 
  	
