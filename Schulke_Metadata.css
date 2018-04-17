@@ -6,7 +6,7 @@
 
 /*body*/
 
-body {background-color: Wheat;
+body {background-color: #DCDCDC;
 	   color: black;
 	   font-family: "helvetica";
 	 }
@@ -14,8 +14,17 @@ body {background-color: Wheat;
 h1   {text-decoration: overline underline;
 		font-size: 35pt;
 		text-align: center;
+		background-color: #E0FFFF; 
 	}
-
+	
+p   {background-color: white;
+		color: 	#008080; 
+		}
+	
+h2   {background-color: #E0FFFF;
+     }	 
+h3   {background-color: #E0FFFF;
+     }	 
 .right  {float: right; 
 		}
 #next_para { clear: right;
