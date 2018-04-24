@@ -27,6 +27,6 @@ h2 	{text-decoration: underline;
 .right  {float: right;} /*move images to right*/
 
 a:hover, a:focus {color:fuchsia;
-					font-size: 20pt} /*changes font color and size when hover over link*/
+					font-size: 20pt;} /*changes font color and size when hover over link*/
 					
-footer {font-family:"sans serif"}
+footer {font-family:"sans serif";}
