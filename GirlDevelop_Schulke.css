@@ -1,0 +1,32 @@
+/*
+*Hannah Schulke
+*April 24, 2018
+*Girl Develop It
+*/
+body {background-color: #ffe1e6;
+	   color: black;
+	   font-family: "arial";
+	 }
+header {background-color: #ff6666 /*extending logo color*/
+		;text-align: center;
+	 }
+
+h1   {text-decoration: underline;
+		font-size: 20pt; /*increasing font size*/
+		text-align: left;
+		font-family: cursive; 
+	}
+	
+h2 	{text-decoration: underline;
+		font-size: 16pt;
+		text-align: left;
+		font-family: cursive;
+		font-weight: 500; /*thinning font compared to h1*/
+	}
+	
+.right  {float: right;} /*move images to right*/
+
+a:hover, a:focus {color:fuchsia;
+					font-size: 20pt} /*changes font color and size when hover over link*/
+					
+footer {font-family:"sans serif"}
