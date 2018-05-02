@@ -1,0 +1,37 @@
+/*
+*Hannah Schulke
+*Box Model
+*/
+
+*{margin: 0;
+  padding: 0; 
+  }
+  
+body{border:3px dotted black;
+	padding: 10px 50px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	width: 600px
+}
+
+main{border: 3px solid black;
+	padding: 20px 3px 5px 3px;
+	margin: 10px 10px 10px 10px;
+	width: 545px;
+}
+
+h1{border: 1px dashed black;
+ 	height: 50px;
+	width: 500px;
+	padding: 10px 10px 5px 10px;
+	margin: 10px 10px 10px 10px;
+}
+
+p{width: 500px;
+	border:1px dashed black;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+}
+
+
+
+
