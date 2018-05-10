@@ -1,0 +1,82 @@
+/*
+*Hannah Schulke
+*May 10,2018
+*Endangered Species Project
+*/
+
+*{margin: 0;
+  padding:0;
+}/*zeroing out margins and padding*/
+  
+body {background-color: #B0E0E6;
+	   color: black;
+	   font-family: "serif"; /*sets font for all of the body*/
+	   padding: 10px 50px 10px 10px;
+	   margin: 10px 10px 10px 10px;
+}
+	 
+header{font size: 20pt;
+		text-align: center;
+		font-size: 35pt;
+		color:#2F4F4F;
+		border-bottom:3px solid white; /*adds horizontal line to bottom of header*/
+		padding: 10px 50px 10px 10px;
+		margin: 10px 10px 10px 10px;
+}
+	 
+h1{color:#2F4F4F;
+	margin: 10px 10px 10px 10px;
+	text-align:left;/*moves text to left*/
+}
+
+p{padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  font-size: 15pt;/*increasing font size*/
+}
+
+main{padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+.right {float: right;/*floats right*/
+	   height:200px;
+	   width:200px; /*set size of picture*/
+}
+
+#next_para{clear:right;/*stops the floating*/
+}	
+
+.top{float: left; /*float picture left*/
+     margin: 10px 10px 10px 10px;
+     height: 150px;
+     width: 255px;
+     border: 3px dotted #2F4F4F;
+}
+	  
+.footer {float: right;
+		 font-style: italic;
+}/*line on bottom of page floated to right*/
+
+.left {
+	   height: 200px;
+	   width: 255px;
+	   	margin: 10px 10px 10px 10px;
+}	
+
+img{margin-left: 8px;
+	margin-right 8px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	border: 3px solid #2F4F4F; /*border around entire picture*/
+}
+
+footer{ border-top: 3px solid white; /*adds horizontal line above footer*/
+		padding: 10px 10px 10px 10px;
+		margin: 10px 10px 10px 50px;
+}
+
+li{list-style-type:none;
+}/*gets rid of bullet points in list*/
+
+a:hover, a:focus {color:white;
+}/*changes link color when hover or focus*/
